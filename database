@@ -1,0 +1,6 @@
+Create table emailrecord(id int, email varchar(30));
+insert into emailrecord values(1, 'abc@gmail.com');
+insert into emailrecord values(2, 'efg@gmail.com');
+insert into emailrecord values(3, 'hij@gmail.com');
+insert into emailrecord values(4, 'klm@gmail.com');
+select * from emailrecord;
